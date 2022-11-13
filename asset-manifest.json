@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/falcon-poinsettias/static/css/main.3326ed5b.css",
-    "main.js": "/falcon-poinsettias/static/js/main.c2417c26.js",
+    "main.js": "/falcon-poinsettias/static/js/main.dd1f0fde.js",
     "static/js/787.c428fd2e.chunk.js": "/falcon-poinsettias/static/js/787.c428fd2e.chunk.js",
     "index.html": "/falcon-poinsettias/index.html",
     "main.3326ed5b.css.map": "/falcon-poinsettias/static/css/main.3326ed5b.css.map",
-    "main.c2417c26.js.map": "/falcon-poinsettias/static/js/main.c2417c26.js.map",
+    "main.dd1f0fde.js.map": "/falcon-poinsettias/static/js/main.dd1f0fde.js.map",
     "787.c428fd2e.chunk.js.map": "/falcon-poinsettias/static/js/787.c428fd2e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3326ed5b.css",
-    "static/js/main.c2417c26.js"
+    "static/js/main.dd1f0fde.js"
   ]
 }
